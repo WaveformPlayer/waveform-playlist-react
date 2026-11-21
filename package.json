@@ -40,10 +40,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/arraypress/waveform-playlist-react.git"
+    "url": "git+https://github.com/WaveformPlayer/waveform-playlist-react.git"
   },
   "bugs": {
-    "url": "https://github.com/arraypress/waveform-playlist-react/issues"
+    "url": "https://github.com/WaveformPlayer/waveform-playlist-react/issues"
   },
   "homepage": "https://waveformplayer.com",
   "funding": {

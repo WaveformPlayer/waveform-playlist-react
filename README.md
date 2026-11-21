@@ -6,7 +6,7 @@
 Declarative `tracks` array, typed props, and an imperative ref handle for playlist and chapter navigation.
 
 [![npm version](https://img.shields.io/npm/v/@arraypress/waveform-playlist-react?style=flat-square&labelColor=09090b&color=3f3f46)](https://www.npmjs.com/package/@arraypress/waveform-playlist-react)
-[![license](https://img.shields.io/npm/l/@arraypress/waveform-playlist-react?style=flat-square&labelColor=09090b&color=3f3f46)](https://github.com/arraypress/waveform-playlist-react/blob/main/LICENSE)
+[![license](https://img.shields.io/npm/l/@arraypress/waveform-playlist-react?style=flat-square&labelColor=09090b&color=3f3f46)](https://github.com/WaveformPlayer/waveform-playlist-react/blob/main/LICENSE)
 
 **[Documentation](https://docs.waveformplayer.com/)** · [npm](https://www.npmjs.com/package/@arraypress/waveform-playlist-react)
 

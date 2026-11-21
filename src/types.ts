@@ -26,7 +26,7 @@
  *   - A `WaveformPlaylistHandle` exposed via `ref` for imperative
  *     navigation (`selectTrack`, `nextTrack`, `previousTrack`, …).
  *
- * @see {@link https://github.com/arraypress/waveform-playlist} — core library
+ * @see {@link https://github.com/WaveformPlayer/waveform-playlist} — core library
  */
 import type {
 	WaveformPlaylist,
